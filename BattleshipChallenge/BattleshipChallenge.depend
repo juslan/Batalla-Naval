@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665193382 source:d:\juslan\nice in contact\training\battleshipchallenge\main.cpp
+	<iostream>
+	<windows.h>
+	<tuple>
+	<vector>
+
